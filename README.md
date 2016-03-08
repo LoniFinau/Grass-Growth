@@ -1,2 +1,2 @@
 # Grass-Growth
-A project conducting experiments in to how fast grass grows.
+A project conducting experiments into how fast grass grows.
